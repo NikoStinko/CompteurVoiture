@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Compteur</string>
+    <string name="increment">Plus</string>
+    <string name="decrement">Moins</string>
+    <string name="reset">Reset</string>
+</resources>
