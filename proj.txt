@@ -1,0 +1,8 @@
+L'objectif de ce petit projet est d'évaluer les compétences suivantes :
+
+    Création d'une application Android respectant l'architecture MVVM
+    Savoir créer une activité et son layout associé
+    Savoir échanger des informations entre deux écrans.
+    Savoir afficher et agir sur une liste de données
+
+Votre code sera commenté
